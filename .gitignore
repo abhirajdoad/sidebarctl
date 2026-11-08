@@ -1,0 +1,4 @@
+sidebarctl
+dist/
+.DS_Store
+*.dSYM/
